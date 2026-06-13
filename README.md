@@ -113,6 +113,12 @@ python main.py
 installer\output\NTE_Drive_Calc_Setup_1.0.1.exe
 ```
 
+## 常见问题
+
+### 全量扫描提示 VIGEM_ERROR_BUS_NOT_FOUND
+
+这是 ViGEmBus 虚拟手柄驱动没有正常启动。请先重启电脑；如果仍然报错，打开开始菜单里的 `NTE Drive Calc -> Install ViGEmBus Driver` 重新安装/修复驱动，然后再次重启。
+
 ## TODO
 
 ### 仓库功能
